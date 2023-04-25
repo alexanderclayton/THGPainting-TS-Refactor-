@@ -1,0 +1,11 @@
+{
+  "name": "thg-server",
+  "version": "1.0.0",
+  "description": "thg-server",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Alex Clayton",
+  "license": "ISC"
+}
